@@ -3,6 +3,7 @@
 Plugin Name: GE KSES
 Description: Adds whitelist of HTML tags allowed to be used for content.
 Version: 1.0
+Author: Anthony Edwards
 */
 //Block direct access to plugin
 defined( 'ABSPATH' ) or die();
