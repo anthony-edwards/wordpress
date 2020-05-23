@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: GE KSES
+Plugin Name:KSES
 Description: Adds whitelist of HTML tags allowed to be used for content.
 Version: 1.0
 Author: Anthony Edwards
